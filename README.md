@@ -1,16 +1,12 @@
-# gdscsolution
+# Find Medicament
 
-A new Flutter project.
+Fullstack mobile application for Google Solution Challenge 24'
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+In this project our goal was reduce the memory burden for health industry by creating a medicament database and a mobile application that uses that database.
+Doctors can add new medicaments and filter existing ones.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+We used HTML, CSS for the static landing page of the application.
+For mobile application we used Flutter.
+For backend technology we used Spring Framework.
