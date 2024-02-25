@@ -32,7 +32,7 @@ Try our app and experience the ease of medicament management!
 
 ## How to Run?
 
->To run the application, first download all the resources then execute the files in the lib folder with `pubspec.yml ` in Android Studio.
+>To run the application, first download all the resources then execute the files in the lib folder with `pubspec.yml` in Android Studio.
 For the backend open the `find-medicament-BE` folder in an editor and simply run it.
 No setup required for viewing `proje-en.html`
 
