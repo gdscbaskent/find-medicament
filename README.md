@@ -2,7 +2,7 @@
 
 This full-stack mobile application, built for the Google Solution Challenge 24', aims to reduce the memory burden for healthcare professionals by providing a user-friendly medicament database and management tool.
 
->## Project Overview:
+## Project Overview:
 
 Doctors can easily add new medicaments to the database and filter existing ones using various criteria. The mobile app, developed with Flutter, offers a convenient and efficient way to access and manage medicament information.
 
